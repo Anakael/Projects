@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+    
+	<head>
+		<title>Крестики-Нолики</title>
+        <meta charset='utf-8' />
+        
+        <style>
+            button{
+                height: 50px;
+                width: 150px;
+                font-size: 20px;
+            }
+            #newGame{
+                position: absolute;
+            }
+            #clear{
+                position: absolute;
+                top: 400px;
+            }
+            #step{
+                position: absolute;
+                left: 780px;
+            }
+            #win{
+                position: absolute;
+                width: 400px;
+                height: 30px;
+                left: 609px;
+                top: 310px;
+                font-size: 30px;
+                color: blue;
+            }
+            #score{
+                position: absolute;
+                width: 400px;
+                height: 30px;
+                left: 609px;
+                top: 360px;
+                font-size: 30px;
+            }
+            </style>
+	</head>
+
+	<body onload="start()">
+            <canvas height='600' width='600' id='example'  onclick="f(event)" >Обновите браузер</canvas>
+            <canvas height="300" width="150" id='step'>Обновите браузер</canvas>
+            <button id="newGame" onclick="start()">Новая игра</button>
+            <div id='win'></div>
+            <div id='score'>К-0:0-Н</div>
+            <button id="clear" onclick="clearScore()">Сбросить счёт</button>
+                     <script src="mainScript.js">
+		</script>
+	</body>
+</html>
