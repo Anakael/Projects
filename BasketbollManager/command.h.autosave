@@ -1,0 +1,14 @@
+#ifndef COMMAND_H
+#define COMMAND_H
+#include <QString>
+
+class Command
+{
+private:
+    QString title;
+    ushort yearCreated;
+    
+    public : Command();
+};
+
+#endif // COMMAND_H
