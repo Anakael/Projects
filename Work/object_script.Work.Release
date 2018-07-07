@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\addnewrequest.o
+./release\request.o
+./release\consumer.o
+./release\admin.o
+./release\authentication.o
+./release\material.o
+./release\mysqlqueries.o
+./release\qrc_style.o
+./release\moc_mainwindow.o
+./release\moc_addnewrequest.o
+./release\moc_authentication.o
+);

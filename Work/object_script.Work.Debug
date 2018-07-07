@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\addnewrequest.o
+./debug\request.o
+./debug\consumer.o
+./debug\admin.o
+./debug\authentication.o
+./debug\material.o
+./debug\mysqlqueries.o
+./debug\qrc_style.o
+./debug\moc_mainwindow.o
+./debug\moc_addnewrequest.o
+./debug\moc_authentication.o
+);
