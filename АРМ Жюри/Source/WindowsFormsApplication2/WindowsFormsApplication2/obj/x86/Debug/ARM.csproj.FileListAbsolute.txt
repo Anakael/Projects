@@ -1,0 +1,27 @@
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.exe.config
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.exe
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.pdb
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.csproj.ResolveComReference.cache
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AboutBox1.resources
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.MainForm.resources
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.Properties.Resources.resources
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.csproj.GenerateResource.Cache
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.exe
+F:\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.pdb
+D:\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.exe.config
+D:\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.csproj.ResolveComReference.cache
+D:\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.exe
+D:\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.pdb
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.exe.config
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.exe
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ARM.pdb
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.csprojResolveAssemblyReference.cache
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.csproj.ResolveComReference.cache
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AboutBox1.resources
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.Properties.Resources.resources
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.csproj.GenerateResource.Cache
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.exe
+C:\Users\sheme\OneDrive\Документы\Проекты\АРМ Жюри\Source\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ARM.pdb

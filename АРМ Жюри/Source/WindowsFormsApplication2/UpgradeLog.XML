@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFormsApplication2">
+</Property><Property Name="Файл решения" Value="C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\WindowsFormsApplication2.suo">
+</Property><Property Name="Date" Value="19 февраля 2015 г.">
+</Property><Property Name="Time" Value="17:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication2.sln" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication2.suo" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2.suo">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\WindowsFormsApplication2.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Form1.cs" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Program.cs" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Form1.resx" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\4-1\Desktop\Marafon\Source\WindowsFormsApplication2\Backup\WindowsFormsApplication2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="Файл проекта не нуждается в преобразовании.">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication2" Source="WindowsFormsApplication2\WindowsFormsApplication2.csproj" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication2.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFormsApplication2.sln" Description="Converted">
+</Event></UpgradeLog>

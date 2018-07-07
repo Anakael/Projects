@@ -1,0 +1,13 @@
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/WindowsFormsApplication2.AboutBox1.resources
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/WindowsFormsApplication2.MainForm.resources
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/WindowsFormsApplication2.Form2.resources
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/ARM.Properties.Resources.resources
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/ARM.exe
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/ARM.pdb
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/bin/Debug/ARM.exe.config
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/bin/Debug/ARM.exe.mdb
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/bin/Debug/ARM.pdb
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/bin/Debug/ARM.exe
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/ARM.exe.mdb
+/mnt/Media/Проекты/АРМ Жюри/Source/WindowsFormsApplication2/WindowsFormsApplication2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

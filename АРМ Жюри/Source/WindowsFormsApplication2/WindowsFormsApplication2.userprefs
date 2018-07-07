@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="WindowsFormsApplication2/ARM.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApplication2/Program.cs">
+    <Files>
+      <File FileName="WindowsFormsApplication2/Form1.cs" Line="448" Column="12" />
+      <File FileName="../../../../../../usr/lib/mono/4.5/Microsoft.Common.targets" Line="2" Column="17" />
+      <File FileName="WindowsFormsApplication2/Form1.Designer.cs" Line="121" Column="7" />
+      <File FileName="WindowsFormsApplication2/Program.cs" Line="22" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

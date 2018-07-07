@@ -1,0 +1,1 @@
+﻿/* Программа max.c "Максимум чисел" */#include <stdio.h>int main () {int i, n, a, max;printf ("Введите количество чисел: ");scanf ("%d", &n);printf ("Введите %d чисел: ", n);scanf ("%d", &max);for(i = 1; i < n ; i++) {scanf ("%d", &a);if(a > max)max = a;}printf ("%d", max);return 0;}
