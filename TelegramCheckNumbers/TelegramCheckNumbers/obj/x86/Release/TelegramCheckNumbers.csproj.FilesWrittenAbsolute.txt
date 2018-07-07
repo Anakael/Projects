@@ -1,0 +1,6 @@
+/home/dmitry/Projects/TelegramCheckNumbers/TelegramCheckNumbers/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dmitry/Projects/TelegramCheckNumbers/TelegramCheckNumbers/bin/Release/TelegramCheckNumbers.exe
+/home/dmitry/Projects/TelegramCheckNumbers/TelegramCheckNumbers/obj/x86/Release/TelegramCheckNumbers.exe
+/home/dmitry/Projects/TelegramCheckNumbers/TelegramCheckNumbers/bin/Release/Newtonsoft.Json.dll
+/home/dmitry/Projects/TelegramCheckNumbers/TelegramCheckNumbers/bin/Release/System.Net.Http.Formatting.dll
+/home/dmitry/Projects/TelegramCheckNumbers/TelegramCheckNumbers/bin/Release/Telegram.Bot.dll
