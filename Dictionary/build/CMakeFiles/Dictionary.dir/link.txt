@@ -1,1 +1,0 @@
-/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/Dictionary.dir/dictionary.c.o CMakeFiles/Dictionary.dir/main.c.o CMakeFiles/Dictionary.dir/utils.c.o  -o Dictionary 

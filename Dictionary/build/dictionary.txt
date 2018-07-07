@@ -1,3 +1,0 @@
-lol => haha
-foo => bar
-1 => lol
