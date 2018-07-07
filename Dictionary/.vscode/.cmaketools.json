@@ -1,0 +1,54 @@
+{
+  "variant": {
+    "label": "Release",
+    "keywordSettings": {
+      "buildType": "release"
+    },
+    "description": "Enable optimizations, omit debug info"
+  },
+  "activeEnvironments": [],
+  "codeModel": {
+    "configurations": [
+      {
+        "name": "Release",
+        "projects": [
+          {
+            "buildDirectory": "/home/dmitry/Documents/Dictionary/build",
+            "name": "Dictionary",
+            "sourceDirectory": "/home/dmitry/Documents/Dictionary",
+            "targets": [
+              {
+                "artifacts": [
+                  "/home/dmitry/Documents/Dictionary/build/Dictionary"
+                ],
+                "buildDirectory": "/home/dmitry/Documents/Dictionary/build",
+                "fileGroups": [
+                  {
+                    "compileFlags": "-O3 -DNDEBUG  ",
+                    "isGenerated": false,
+                    "language": "C",
+                    "sources": [
+                      "dictionary.c",
+                      "main.c",
+                      "utils.c"
+                    ]
+                  }
+                ],
+                "fullName": "Dictionary",
+                "linkFlags": "-rdynamic",
+                "linkLanguageFlags": "-O3 -DNDEBUG",
+                "linkerLanguage": "C",
+                "name": "Dictionary",
+                "sourceDirectory": "/home/dmitry/Documents/Dictionary",
+                "type": "EXECUTABLE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "cookie": "0.12679366087931787",
+    "inReplyTo": "codemodel",
+    "type": "reply"
+  }
+}

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(Dictionary)
+set(EXECUTABLE_NAME ${PROJECT_NAME})
+file(GLOB SOURCE "*.c")
+add_executable(${EXECUTABLE_NAME} ${SOURCE})

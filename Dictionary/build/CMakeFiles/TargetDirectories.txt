@@ -1,0 +1,3 @@
+/home/dmitry/Documents/Dictionary/build/CMakeFiles/rebuild_cache.dir
+/home/dmitry/Documents/Dictionary/build/CMakeFiles/Dictionary.dir
+/home/dmitry/Documents/Dictionary/build/CMakeFiles/edit_cache.dir

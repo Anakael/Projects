@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitry/Documents/Dictionary/dictionary.c
+dictionary.h
+/home/dmitry/Documents/Dictionary/dictionary.h
+
+/home/dmitry/Documents/Dictionary/dictionary.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/dmitry/Documents/Dictionary/main.c
+dictionary.h
+/home/dmitry/Documents/Dictionary/dictionary.h
+utils.h
+/home/dmitry/Documents/Dictionary/utils.h
+
+/home/dmitry/Documents/Dictionary/utils.c
+utils.h
+/home/dmitry/Documents/Dictionary/utils.h
+
+/home/dmitry/Documents/Dictionary/utils.h
+termios.h
+-
+stdlib.h
+-
+stdio.h
+-
+
